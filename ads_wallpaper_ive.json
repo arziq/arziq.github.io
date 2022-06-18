@@ -1,0 +1,22 @@
+{
+  "username": "yabbieo",
+  "album": ["ive wallpaper"],
+  "init_jumlah_photo": 100,
+  "admob_banner_id": "ca-app-pub-9160001534541342/9851268194",
+  "admob_interstitial_id": "ca-app-pub-9160001534541342/6197047923",
+  "admob_native_id": "ca-app-pub-9160001534541342/1589634792",
+  "admob_rewarded_id": "ca-app-pub-9160001534541342/4341294361",
+  "admob_rewarded_interstitial_id": "ca-app-pub-9160001534541342/7983643010",
+  "admob_open_app_id": "ca-app-pub-9160001534541342/1398063103",
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
+  "startapp_app_id": "",
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": "",
+  "interstitial_inverval": 10,
+  "list_ads": ["ADMOB", "UNITY", "STARTAPP"]
+}
