@@ -1,0 +1,22 @@
+{
+  "username": "arziqb",
+  "album": ["Free fire"],
+  "init_jumlah_photo": 100,
+  "admob_banner_id": "ca-app-pub-9160001534541342/8518887103",
+  "admob_interstitial_id": "ca-app-pub-9160001534541342/3400360166",
+  "admob_native_id": "ca-app-pub-9160001534541342/8461115155",
+  "admob_rewarded_id": "ca-app-pub-9160001534541342/8913581307",
+  "admob_rewarded_interstitial_id": "ca-app-pub-9160001534541342/4782764601",
+  "admob_open_app_id": "ca-app-pub-9160001534541342/4521870146",
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
+  "startapp_app_id": "",
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": "",
+  "interstitial_inverval": 10,
+  "list_ads": ["ADMOB", "UNITY", "STARTAPP"]
+}
