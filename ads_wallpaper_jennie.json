@@ -1,0 +1,22 @@
+{
+  "username": "yabbieo",
+  "album": ["jennie"],
+  "init_jumlah_photo": 50,
+  "admob_banner_id": "ca-app-pub-9160001534541342/3471294736",
+  "admob_interstitial_id": "ca-app-pub-9160001534541342/9845131394",
+  "admob_native_id": "ca-app-pub-9160001534541342/4592804713",
+  "admob_rewarded_id": "ca-app-pub-9160001534541342/8913581307",
+  "admob_rewarded_interstitial_id": "ca-app-pub-9160001534541342/4782764601",
+  "admob_open_app_id": "ca-app-pub-9160001534541342/1966641374",
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
+  "startapp_app_id": "206327609",
+  "unity_id": "4826933",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+  "interstitial_inverval": 10,
+  "list_ads": ["ADMOB", "UNITY", "STARTAPP"]
+}
