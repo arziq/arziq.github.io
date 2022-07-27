@@ -1,6 +1,6 @@
 {
   "username": "yabbieo",
-  "album": ["ive wallpaper","ive update"],
+  "album": ["ive wallpaper", "ive update"],
   "init_jumlah_photo": 50,
   "admob_banner_id": "ca-app-pub-9160001534541342/8875556850",
   "admob_interstitial_id": "ca-app-pub-9160001534541342/2493147186",
@@ -13,7 +13,7 @@
   "admob_hpk_3": "telkomsel",
   "admob_hpk_4": "jenius",
   "admob_hpk_5": "bts",
-  "startapp_app_id": "",
+  "startapp_app_id": "206211497",
   "unity_id": "4828559",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
