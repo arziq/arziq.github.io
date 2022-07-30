@@ -14,9 +14,9 @@
   "admob_hpk_4": "jenius",
   "admob_hpk_5": "bts",
   "startapp_app_id": "206333326",
-  "unity_id": "",
-  "unity_banner": "",
-  "unity_interstitial": "",
+  "unity_id": "4828560",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
   "interstitial_inverval": 5,
   "list_ads": ["ADMOB", "UNITY", "STARTAPP"]
 }
