@@ -1,15 +1,13 @@
 {
-  "username": "andhy2913",
+  "username": "yabbieo",
   "album": [
-    "zero two",
-    "attack on titan",
-    "jujutsu kaisen",
-    "Tokyo Revenger",
-    "demon slayer",
-    "anime girl",
-    "sad anime"
+   "Anime",
+    "Jujutsu Kaisen",
+    "One Piece",
+    "Naruto",
+    "Tokyo Revengers"
   ],
-  "init_jumlah_photo": 100,
+  "init_jumlah_photo": 150,
   "admob_banner_id": "ca-app-pub-9160001534541342/8739025750",
   "admob_interstitial_id": "ca-app-pub-9160001534541342/2173617401",
   "admob_native_id": "ca-app-pub-9160001534541342/5921290721",
