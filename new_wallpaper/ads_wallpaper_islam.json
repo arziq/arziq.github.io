@@ -1,7 +1,7 @@
 {
-  "username": "arziqb",
-  "album": ["kata islam", "nasihat", "anak", "pernikahan"],
-  "init_jumlah_photo": 100,
+  "username": "arziqb/islam",
+  "album": ["islam"],
+  "init_jumlah_photo": 200,
   "admob_banner_id": "ca-app-pub-9160001534541342/2370674867",
   "admob_interstitial_id": "ca-app-pub-9160001534541342/5918790210",
   "admob_native_id": "ca-app-pub-9160001534541342/4805266514",
