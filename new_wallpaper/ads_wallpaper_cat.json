@@ -1,7 +1,7 @@
 {
-  "username": "yabbieo",
-  "album": ["Cute cat"],
-  "init_jumlah_photo": 50,
+  "username": "yabbieo/cat",
+  "album": ["cat"],
+  "init_jumlah_photo": 150,
   "admob_banner_id": "ca-app-pub-9160001534541342/5011519767",
   "admob_interstitial_id": "ca-app-pub-9160001534541342/5004577067",
   "admob_native_id": "ca-app-pub-9160001534541342/1065332052",
