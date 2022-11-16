@@ -1,0 +1,27 @@
+{
+  "username": "miracle5758",
+  "album": [
+    "Jennie Live Wallpaper",
+    "Jisoo Live Wallpaper",
+    "Rose Live Wallpaper",
+    "Lisa Live Wallpapere"
+  ],
+  "init_jumlah_photo": 200,
+  "admob_banner_id": "ca-app-pub-9160001534541342/5689910684",
+  "admob_interstitial_id": "ca-app-pub-9160001534541342/4024393659",
+  "admob_native_id": "ca-app-pub-9160001534541342/7476553507",
+  "admob_rewarded_id": "ca-app-pub-9160001534541342/4341294361",
+  "admob_rewarded_interstitial_id": "ca-app-pub-9160001534541342/7983643010",
+  "admob_open_app_id": "ca-app-pub-9160001534541342/9911145158",
+  "admob_hpk_1": "insurance",
+  "admob_hpk_2": "jago",
+  "admob_hpk_3": "telkomsel",
+  "admob_hpk_4": "jenius",
+  "admob_hpk_5": "bts",
+  "startapp_app_id": "206960843",
+  "unity_id": "4828567",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+  "interstitial_inverval": 5,
+  "list_ads": ["ADMOB", "UNITY", "STARTAPP"]
+}
