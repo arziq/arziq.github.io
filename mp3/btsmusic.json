@@ -1,3 +1,29 @@
 {
-"status" : false
+"status" : false,
+"music" : [{
+  {
+"title": "acoustic-guitars-ambient",
+"artist": "Rain and Relax",
+"img": "assets/img/pic-2.png",
+"audio": "https://arziq.github.io/mp3/music/sleepsound/acoustic-guitars-ambient.mp3"
+},
+{
+"title": "ancient-wind",
+"artist": "Rain and Relax",
+"img": "assets/img/pic-2.png",
+"audio": "https://arziq.github.io/mp3/music/sleepsound/ancient-wind.mp3"
+},
+{
+"title": "chilled-acoustic-indie",
+"artist": "Rain and Relax",
+"img": "assets/img/pic-2.png",
+"audio": "https://arziq.github.io/mp3/music/sleepsound/chilled-acoustic-indie.mp3"
+},
+{
+"title": "cinematic-atmosphere",
+"artist": "Rain and Relax",
+"img": "assets/img/pic-2.png",
+"audio": "https://arziq.github.io/mp3/music/sleepsound/cinematic-atmosphere.mp3"
+}
+}]
 }
