@@ -42,37 +42,51 @@
     {
       "id" : "1",
       "name" : "Jungkook",
-      "image" : ""
+      "imageUrl" : "",
+      "message" : "Hello",
+      "time" : "today"
     },
     {
       "id" : "2",
       "name" : "Jimin",
-      "image" : ""
+      "imageUrl" : "",
+      "message" : "Hello",
+      "time" : "today"
     },
     {
       "id" : "3",
       "name" : "Jin",
-      "image" : ""
+      "imageUrl" : "",
+      "message" : "Hello",
+      "time" : "today"
     },
     {
       "id" : "4",
       "name" : "Suga",
-      "image" : ""
+      "imageUrl" : "",
+      "message" : "Hello",
+      "time" : "today"
     },
     {
       "id" : "5",
       "name" : "V",
-      "image" : ""
+      "imageUrl" : "",
+      "message" : "Hello",
+      "time" : "today"
     },
     {
       "id" : "6",
       "name" : "RM",
-      "image" : ""
+      "imageUrl" : "",
+      "message" : "Hello",
+      "time" : "today"
     },
     {
       "id" : "7",
       "name" : "J-Hope",
-      "image" : ""
+      "imageUrl" : "",
+      "message" : "Hello",
+      "time" : "today"
     }
    
 ],
