@@ -114,7 +114,8 @@
         "answer" : ["i'm fine", "i'm good", "i'm okay"]
       },
       { 
-        "ask" : ["what's your name?", "what is your name?", "who are you?"]
+        "ask" : ["what's your name?", "what is your name?", "who are you?"],
+        "answer" : ["my name is jungkook", "my name is jimin", "my name is taehyung"]
        
       }
     ],
@@ -128,7 +129,8 @@
         "answer" : ["i'm fine", "i'm good", "i'm okay"]
       },
       {
-        "ask" : ["what's your name?", "what is your name?", "who are you?"]
+        "ask" : ["what's your name?", "what is your name?", "who are you?"],
+        "answer" : ["my name is jungkook", "my name is jimin", "my name is taehyung"]
        
       }
     ],
@@ -142,7 +144,8 @@
         "answer" : ["i'm fine", "i'm good", "i'm okay"]
       },
       {
-        "ask" : ["what's your name?", "what is your name?", "who are you?"]
+        "ask" : ["what's your name?", "what is your name?", "who are you?"],
+        "answer" : ["my name is jungkook", "my name is jimin", "my name is taehyung"]
        
       }
     ],
