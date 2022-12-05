@@ -120,7 +120,7 @@
     ],
     [
       {
-        "ask" : [["loha","do you love me"]], "hai", "hi"],
+        "ask" : [["loha","do you love me"], "hai", "hi"],
         "answer" : ["hallo", "hai", "hi"]
       },
       {
