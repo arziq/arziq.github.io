@@ -126,7 +126,7 @@
         "answer" : [["thank you so much, i will visit seoul soon"], ["i hope so 😊"]]
       },
       { 
-        "ask" : [["was great conversation","i should go now i have a practice $name", "bye"]],
+        "ask" : [["was great conversation","i should go now i have a practice $name", "bye"],["was great conversation","i should go now i have a practice $name", "bye"]],
         "answer" : [["thank you so much, i will visit seoul soon"], ["i hope so 😊"]]
       }
     ],
@@ -152,7 +152,7 @@
         "answer" : [["thank you so much, i will visit seoul soon"], ["i hope so 😊"]]
       },
       { 
-        "ask" : [["was great conversation","i should go now i have a practice $name", "bye"]],
+        "ask" : [["was great conversation","i should go now i have a practice $name", "bye"],["was great conversation","i should go now i have a practice $name", "bye"]],
         "answer" : [["thank you so much, i will visit seoul soon"], ["i hope so 😊"]]
       }
     ],
@@ -171,14 +171,14 @@
       },
       { 
         "ask" : [["you should visit it at least two times 😜" , "there's a lot of beautiful places to see", "one time doesn't enough 😜"] ,["you're always welcome here in korea i mean south korea 😜","for me, i have visited US and UK and many place"]],
-        "answer" : ["yes of course i will 😍", "thank you so much, i will visit seoul soon"]
+        "answer" : [["yes of course i will 😍"], ["thank you so much, i will visit seoul soon"]]
       },
       { 
         "ask" : [["you're always welcome here in korea i mean south korea 😜","for me, i have visited US and UK and many place"] ,["i want to see your selfies","soon 😍😉"]],
         "answer" : [["thank you so much, i will visit seoul soon"], ["i hope so 😊"]]
       },
       { 
-        "ask" : [["was great conversation","i should go now i have a practice $name", "bye"]],
+        "ask" : [["was great conversation","i should go now i have a practice $name", "bye"],["was great conversation","i should go now i have a practice $name", "bye"]],
         "answer" : [["thank you so much, i will visit seoul soon"], ["i hope so 😊"]]
       }
     ]
