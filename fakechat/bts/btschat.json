@@ -106,61 +106,68 @@
   [
     [
       {
-        "ask" : [["hallo", "do you love me"], "hai", "hi"],
-        "answer" : ["hallo", "hai", "hi"]
+        "ask" : [["annyeonghaseyo 👋","it's means hii"]],
+        "answer" : ["know it's means hi", "annyeonghaseyo"]
       },
       {
-        "ask" : ["how are u?", "how are you?", "how are you doing?"],
-        "answer" : ["i'm fine", "i'm good", "i'm okay"]
+        "ask" : [["oh nice","can you speak korean ?"], ["oh haha", "can you speak korean ?"]],
+        "answer" : ["a little bit", "yes i can"]
       },
       { 
-        "ask" : ["what's your name?", "what is your name?", "who are you?"],
-        "answer" : ["my name is jungkook", "my name is jimin", "my name is taehyung"]
-       
+        "ask" : [["that's ok $name" , "did you ever visited south korea ?", "seoul"] ,["really! thats nice","did you ever visited south korea ?","seoul"]],
+        "answer" : ["no never 😢😭", "yes id did"]
+      },
+      { 
+        "ask" : [["you should visit it at least two times 😜" , "there's a lot of beautiful places to see", "one time doesn't enough 😜"] ,["you're always welcome here in korea i mean south korea 😜","for me, i have visited US and UK and many place"]],
+        "answer" : ["yes of course i will 😍", "thank you so much, i will visit seoul soon"]
+      },
+      { 
+        "ask" : [["you're always welcome here in korea i mean south korea 😜","for me, i have visited US and UK and many place"] ,["i want to see your selfies","soon 😍😉"]],
+        "answer" : ["", ""]
       }
     ],
     [
       {
-        "ask" : [["loha","do you love me"], "hai", "hi"],
-        "answer" : ["hallo", "hai", "hi"]
+        "ask" : [["annyeonghaseyo 👋","it's means hii"]],
+        "answer" : ["know it's means hi", "annyeonghaseyo"]
       },
       {
-        "ask" : ["i miss u", "how are you?", "how are you doing?"],
-        "answer" : ["i'm fine", "i'm good", "i'm okay"]
+        "ask" : [["oh nice","can you speak korean ?"], ["oh haha", "can you speak korean ?"]],
+        "answer" : ["a little bit", "yes i can"]
       },
-      {
-        "ask" : ["what's your name?", "what is your name?", "who are you?"],
-        "answer" : ["my name is jungkook", "my name is jimin", "my name is taehyung"]
-       
+      { 
+        "ask" : [["that's ok $name" , "did you ever visited south korea ?", "seoul"] ,["really! thats nice","did you ever visited south korea ?","seoul"]],
+        "answer" : ["no never 😢😭", "yes id did"]
+      },
+      { 
+        "ask" : [["you should visit it at least two times 😜" , "there's a lot of beautiful places to see", "one time doesn't enough 😜"] ,["you're always welcome here in korea i mean south korea 😜","for me, i have visited US and UK and many place"]],
+        "answer" : ["yes of course i will 😍", "thank you so much, i will visit seoul soon"]
+      },
+      { 
+        "ask" : [["you're always welcome here in korea i mean south korea 😜","for me, i have visited US and UK and many place"] ,["i want to see your selfies","soon 😍😉"]],
+        "answer" : ["", ""]
       }
     ],
     [
       {
-        "ask" : [["i love u", "do you love me"]],
-        "answer" : ["hallo", "hai", "hi"]
+        "ask" : [["annyeonghaseyo 👋","it's means hii"]],
+        "answer" : ["know it's means hi", "annyeonghaseyo"]
       },
       {
-        "ask" : ["i miss u", "how are you?", "how are you doing?"],
-        "answer" : ["i'm fine", "i'm good", "i'm okay"]
+        "ask" : [["oh nice","can you speak korean ?"], ["oh haha", "can you speak korean ?"]],
+        "answer" : ["a little bit", "yes i can"]
       },
-      {
-        "ask" : ["what's your name?", "what is your name?", "who are you?"],
-        "answer" : ["my name is jungkook", "my name is jimin", "my name is taehyung"]
-       
-      }
-    ],
-    [
-      {
-        "ask" : ["i love u uuu"],
-        "answer" : ["hallo", "hai", "hi"]
+      { 
+        "ask" : [["that's ok $name" , "did you ever visited south korea ?", "seoul"] ,["really! thats nice","did you ever visited south korea ?","seoul"]],
+        "answer" : ["no never 😢😭", "yes id did"]
       },
-      {
-        "ask" : ["i miss u", "how are you?", "how are you doing?"],
-        "answer" : ["i'm fine", "i'm good", "i'm okay"]
+      { 
+        "ask" : [["you should visit it at least two times 😜" , "there's a lot of beautiful places to see", "one time doesn't enough 😜"] ,["you're always welcome here in korea i mean south korea 😜","for me, i have visited US and UK and many place"]],
+        "answer" : ["yes of course i will 😍", "thank you so much, i will visit seoul soon"]
       },
-      {
-        "ask" : ["what's your name?", "what is your name?", "who are you?"],
-        "answer" : ["my name is jungkook", "my name is jimin", "my name is taehyung"]
+      { 
+        "ask" : [["you're always welcome here in korea i mean south korea 😜","for me, i have visited US and UK and many place"] ,["i want to see your selfies","soon 😍😉"]],
+        "answer" : ["", ""]
       }
     ]
   ]
