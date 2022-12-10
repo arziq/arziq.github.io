@@ -106,80 +106,65 @@
   [
     [
       {
-        "ask" : [["annyeonghaseyo 👋","it's means hii 1"]],
-        "answer" : ["know it's means hi", "annyeonghaseyo"]
+        "ask" : [["yn", 
+        "are you there?",
+        "I am boring"
+       ]],
+        "answer" : ["me too", "yes i am here for you"]
       },
       {
-        "ask" : [["oh nice","can you speak korean ?"], ["oh haha", "can you speak korean ?"]],
-        "answer" : ["a little bit", "yes i can"]
+        "ask" : [["are you sure?","lets talk about something"], ["nice", "lets talk about something"]],
+        "answer" : ["okay lets talking", "suggest topic to talk about"]
       },
       { 
-        "ask" : [["that's ok $name" , "did you ever visited south korea ?", "seoul"] ,["really! thats nice","did you ever visited south korea ?","seoul"]],
-        "answer" : ["no never 😢😭", "yes id did"]
+        "ask" : [["okay" , "actually i want to ask you yn?", "i really like a girl but idk to tell her"] ,["can we talk about love?","actually i want to ask you yn?","i really like a girl but idk to tell her"]],
+        "answer" : ["very simple just tell her that you like her", "hmm just ask her to the movies this weekend"]
       },
       { 
-        "ask" : [["you should visit it at least two times 😜" , "there's a lot of beautiful places to see", "one time doesn't enough 😜"] ,["you're always welcome here in korea i mean south korea 😜","for me, i have visited US and UK and many place"]],
-        "answer" : ["yes of course i will 😍", "thank you so much, i will visit seoul soon"]
+        "ask" : [["i like you" , "do you want to the movies in this weekend"] ,["okay","do you want to the movies in this weekend"]],
+        "answer" : ["no i meant ask her", "who? me? really"]
       },
       { 
-        "ask" : [["you're always welcome here in korea i mean south korea 😜","for me, i have visited US and UK and many place"] ,["i want to see your selfies","soon 😍😉"]],
-        "answer" : [["thank you so much, i will visit seoul soon"], ["i hope so 😊"]]
+        "ask" : [["yes i did","i like you","cause you have something special thats make me into you"] ,["yes of course you","cause you have something special thats make me into you"]],
+        "answer" : ["i like you too", "what is this things"]
       },
       { 
-        "ask" : [["was great conversation","i should go now i have a practice $name", "bye"],["was great conversation","i should go now i have a practice $name", "bye"]],
-        "answer" : [["thank you so much, i will visit seoul soon"], ["i hope so 😊"]]
+        "ask" : [["are you sure?","actually there’s none except you that make laugh out loud", "thats why I want you to know that I love you yn"],["the things is there’s none except you that make laugh out loud","thats why I want you to know that I love you yn"]],
+        "answer" : ["awww you make me shy","am I really special to you?"]
+      },
+      { 
+        "ask" : [["am I ?","you are really special to me?", "and I want to stay with you for a long time","but i’ve to go","i will call you as soon as possible"],["you are really special to me?","and I want to stay with you for a long time","but i’ve to go","i will call you as soon as possible"]],
+        "answer" : ["awww you make me shy","am I really special to you?"]
       }
     ],
     [
       {
-        "ask" : [["annyeonghaseyo 👋","it's means hii 2"]],
-        "answer" : ["know it's means hi", "annyeonghaseyo"]
+        "ask" : [["yn","whats up"]],
+        "answer" : ["hi oppa", "hello"]
       },
       {
-        "ask" : [["oh nice","can you speak korean ?"], ["oh haha", "can you speak korean ?"]],
-        "answer" : ["a little bit", "yes i can"]
+        "ask" : [["where did you dissapear?"], ["where did you disappear?"]],
+        "answer" : ["i am here all the time", "nothing special i just rest"]
       },
       { 
-        "ask" : [["that's ok $name" , "did you ever visited south korea ?", "seoul"] ,["really! thats nice","did you ever visited south korea ?","seoul"]],
-        "answer" : ["no never 😢😭", "yes id did"]
+        "ask" : [["I missed you" , "yn", "why you didnt text me?"] ,["I missed you" , "yn", "why you didnt text me?"]],
+        "answer" : ["i miss you too, no you are in my mind", "thanks oppa, i am sorry i was busy yesterday"]
       },
       { 
-        "ask" : [["you should visit it at least two times 😜" , "there's a lot of beautiful places to see", "one time doesn't enough 😜"] ,["you're always welcome here in korea i mean south korea 😜","for me, i have visited US and UK and many place"]],
-        "answer" : [["yes of course i will 😍"], ["thank you so much, i will visit seoul soon"]]
+        "ask" : [["so can we hang out tommorow" , "we will going to amusement park"] ,["so can we hang out today?","we will going to amusement park"]],
+        "answer" : ["wow of course any time you want","emm i am sorry oppa, today i have to go supermarket"]
       },
       { 
-        "ask" : [["you're always welcome here in korea i mean south korea 😜","for me, i have visited US and UK and many place"] ,["i want to see your selfies","soon 😍😉"]],
-        "answer" : [["thank you so much, i will visit seoul soon"], ["i hope so 😊"]]
+        "ask" : [["nice I will pick you up","and we will make every BTS members get jealous"] ,["okay, I will take you to supermarket","shopping together","and we will make every BTS members get jealous"]],
+        "answer" : ["hahah, lets make them jealous oppa"," hahah, don’t make them jealous oppa"]
       },
       { 
-        "ask" : [["was great conversation","i should go now i have a practice $name", "bye"],["was great conversation","i should go now i have a practice $name", "bye"]],
-        "answer" : [["thank you so much, i will visit seoul soon"], ["i hope so 😊"]]
-      }
-    ],
-    [
-      {
-        "ask" : [["annyeonghaseyo 👋","it's means hii 3"]],
-        "answer" : ["know it's means hi", "annyeonghaseyo"]
-      },
-      {
-        "ask" : [["oh nice","can you speak korean ?"], ["oh haha", "can you speak korean ?"]],
-        "answer" : ["a little bit", "yes i can"]
+        "ask" : [["yeahh yn","we will share our picture on instagram"],["why yn","we will share our picture on instagram"]],
+        "answer" : ["OMG you will share our picture in your instagram","No oppa please, I am shy"]
       },
       { 
-        "ask" : [["that's ok $name" , "did you ever visited south korea ?", "seoul"] ,["really! thats nice","did you ever visited south korea ?","seoul"]],
-        "answer" : ["no never 😢😭", "yes id did"]
-      },
-      { 
-        "ask" : [["you should visit it at least two times 😜" , "there's a lot of beautiful places to see", "one time doesn't enough 😜"] ,["you're always welcome here in korea i mean south korea 😜","for me, i have visited US and UK and many place"]],
-        "answer" : [["yes of course i will 😍"], ["thank you so much, i will visit seoul soon"]]
-      },
-      { 
-        "ask" : [["you're always welcome here in korea i mean south korea 😜","for me, i have visited US and UK and many place"] ,["i want to see your selfies","soon 😍😉"]],
-        "answer" : [["thank you so much, i will visit seoul soon"], ["i hope so 😊"]]
-      },
-      { 
-        "ask" : [["was great conversation","i should go now i have a practice $name", "bye"],["was great conversation","i should go now i have a practice $name", "bye"]],
-        "answer" : [["thank you so much, i will visit seoul soon"], ["i hope so 😊"]]
+        "ask" : [["yes baby","I want to all the world see us","see you tomorrow yn","I cant wait to see you"],["why? you are most beautiful woman that i’ve ever met","I want to all the world see us","see you tomorrow yn","I cant wait to see you"]],
+        "answer" : ["OMG you will share our picture in your instagram","No oppa please, I am shy"]
       }
     ]
   ]
