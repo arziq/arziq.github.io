@@ -10,8 +10,8 @@
   {
     "id":2,
     "title":"Jungkook Wallpaper",
-    "image":"https://play-lh.googleusercontent.com/345W64ClVhZVPK5Hl9Lw-PNFjE6tPg5oN4uUThldp57MZtwoDRoOkcmRij6pMECulqc=w480-h960-rw",
-    "link":"https://play.google.com/store/apps/details?id=id.hanastudios.jungkookwallpaper"
+    "image":"https://play-lh.googleusercontent.com/_VcZ08LMXG8uoHj5AtYFr1_Y0DwJFaI9WFMcZbeRUEb__X7bcqkWpXa3TAJCvoM2Kb-b=w480-h960-rw",
+    "link":"https://play.google.com/store/apps/details?id=id.maryamstudio.jungkookwallpaper"
   },
   {
     "id":3,
@@ -54,7 +54,7 @@
     {
       "id" : "1",
       "name" : "Jungkook",
-      "imageUrl" : "https://play-lh.googleusercontent.com/345W64ClVhZVPK5Hl9Lw-PNFjE6tPg5oN4uUThldp57MZtwoDRoOkcmRij6pMECulqc=w480-h960-rw",
+      "imageUrl" : "https://play-lh.googleusercontent.com/_VcZ08LMXG8uoHj5AtYFr1_Y0DwJFaI9WFMcZbeRUEb__X7bcqkWpXa3TAJCvoM2Kb-b=w480-h960-rw",
       "message" : "Hello",
       "time" : "today"
     },
@@ -63,7 +63,7 @@
       "name" : "Jimin",
       "imageUrl" : "https://play-lh.googleusercontent.com/kyEnsqtUChJ98BRa0ee3TikkVYzMn7DHZ2gsVUsPVgpVMO8Vix69C9P9irr0KzKUHA=s512-rw",
       "message" : "Hello",
-      "time" : "today"
+      "time" : "yesterday"
     },
     {
       "id" : "3",
