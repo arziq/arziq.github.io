@@ -54,49 +54,49 @@
     {
       "id" : "1",
       "name" : "Jungkook",
-      "imageUrl" : "https://play-lh.googleusercontent.com/_VcZ08LMXG8uoHj5AtYFr1_Y0DwJFaI9WFMcZbeRUEb__X7bcqkWpXa3TAJCvoM2Kb-b=w480-h960-rw",
+      "imageUrl" : "https://arziq.github.io/fakechat/bts/jungkook.jpg",
       "message" : "Hello",
       "time" : "today"
     },
     {
       "id" : "2",
       "name" : "Jimin",
-      "imageUrl" : "https://play-lh.googleusercontent.com/kyEnsqtUChJ98BRa0ee3TikkVYzMn7DHZ2gsVUsPVgpVMO8Vix69C9P9irr0KzKUHA=s512-rw",
+      "imageUrl" : "https://arziq.github.io/fakechat/bts/jimin.jpeg",
       "message" : "Hello",
       "time" : "yesterday"
     },
     {
       "id" : "3",
       "name" : "Jin",
-      "imageUrl" : "https://play-lh.googleusercontent.com/aHP15QDx065mDOcRkpqgWVXgI2C_PTHuCuQ8Xy2TxOs-m6v13a7WTPMjZhnu2nu1fJ1t=s512-rw",
+      "imageUrl" : "jin",
       "message" : "Hello",
       "time" : "today"
     },
     {
       "id" : "4",
       "name" : "Suga",
-      "imageUrl" : "https://play-lh.googleusercontent.com/cyE6jl9aHNao_wHZLnvJO3U88b2gxdRYEtbp_KFJPGceq47VQ7sD31iwOxaR6LDYwkw=w480-h960-rw",
+      "imageUrl" : "https://arziq.github.io/fakechat/bts/suga.jpg",
       "message" : "Hello",
       "time" : "today"
     },
     {
       "id" : "5",
       "name" : "V",
-      "imageUrl" : "https://play-lh.googleusercontent.com/OiQQuOcVJYjpG2zYKwXYCzPHohnyzBdrettq6iSV-vbj44Mo0jCo5bI3K4OLs6-LJA=s512-rw",
+      "imageUrl" : "https://arziq.github.io/fakechat/bts/v.jpg",
       "message" : "Hello",
       "time" : "today"
     },
     {
       "id" : "6",
       "name" : "RM",
-      "imageUrl" : "https://play-lh.googleusercontent.com/m2mNc-dANSHTQ79cRRP-P06pFRYnRFeUOZVgkUUKk58L-FUtub2LAouaHvT11FDNpq8=s512-rw",
+      "imageUrl" : "https://arziq.github.io/fakechat/bts/rm.jpg",
       "message" : "Hello",
       "time" : "today"
     },
     {
       "id" : "7",
       "name" : "J-Hope",
-      "imageUrl" : "https://play-lh.googleusercontent.com/0obRN0fu1C6avTAxgJ430GkT_GRSmbJetwOH1nXZvUMmvEJxGvAHGl9zgDPyAF_D0Q=s512-rw",
+      "imageUrl" : "https://arziq.github.io/fakechat/bts/jhope.jpg",
       "message" : "Hello",
       "time" : "today"
     }
