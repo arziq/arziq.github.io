@@ -19,6 +19,6 @@
   "unity_id": "4828567",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 10,
   "list_ads": ["ADMOB", "UNITY", "STARTAPP"]
 }
