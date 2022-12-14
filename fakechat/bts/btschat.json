@@ -68,7 +68,7 @@
     {
       "id" : "3",
       "name" : "Jin",
-      "imageUrl" : "jin",
+      "imageUrl" : "https://arziq.github.io/fakechat/bts/jin.jpg",
       "message" : "Hello",
       "time" : "today"
     },
@@ -89,7 +89,7 @@
     {
       "id" : "6",
       "name" : "RM",
-      "imageUrl" : "https://arziq.github.io/fakechat/bts/rm.jpg",
+      "imageUrl" : "https://arziq.github.io/fakechat/bts/rmjpg.jpg",
       "message" : "Hello",
       "time" : "today"
     },
