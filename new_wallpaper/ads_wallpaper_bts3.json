@@ -1,0 +1,22 @@
+{
+  "username": "nhali1233/stb",
+  "album": ["BTS", "V", "JIN", "jhope", "rm", "suga", "jungkook", "jimin"],
+  "init_jumlah_photo": 800,
+  "admob_banner_id": "ca-app-pub-9160001534541342/7961161207",
+  "admob_interstitial_id": "ca-app-pub-9160001534541342/6932802958",
+  "admob_native_id": "ca-app-pub-9160001534541342/6456507847",
+  "admob_rewarded_id": "ca-app-pub-9160001534541342/8913581307",
+  "admob_rewarded_interstitial_id": "ca-app-pub-9160001534541342/4782764601",
+  "admob_open_app_id": "ca-app-pub-9160001534541342/6264936151",
+  "admob_hpk_1": "insurance",
+  "admob_hpk_2": "jago",
+  "admob_hpk_3": "telkomsel",
+  "admob_hpk_4": "jenius",
+  "admob_hpk_5": "bts",
+  "startapp_app_id": "206369994",
+  "unity_id": "4821847",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+  "interstitial_inverval": 10,
+  "list_ads": ["ADMOB", "UNITY", "STARTAPP"]
+}
