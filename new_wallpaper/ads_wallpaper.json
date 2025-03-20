@@ -18,5 +18,5 @@
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
   "interstitial_inverval": 10,
-  "list_ads": ["UNITY",]
+  "list_ads": ["UNITY"]
 }
